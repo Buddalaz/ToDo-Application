@@ -1,4 +1,4 @@
-# todo-applicatin
+# todo-application
 basic crud operation and SQLite database in android application.
 adding todos and making the todos finshed and can be add, update and delete
 
